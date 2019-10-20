@@ -1,0 +1,63 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+
+.bg{
+    background: linear-gradient(to right, #e91e63, #3151b5);
+    height: 100%;
+}
+
+.button {
+    width: 75px;
+    height:50px;
+    font-size: 25px;
+    margin: 2px;
+    cursor: pointer;
+    border: none;
+}
+
+
+.textview{
+    width: 305px;
+    margin: 5px;
+    font-size: 25px;
+    padding: 5px;
+    border: none;
+    background-color: transparent;
+}
+
+
+.main{
+    width:327px;
+    height: 332px;
+    background-color: #efecec;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%)translateY(-50%);
+    border: 5px solid blue;
+}
+
+.number{
+    background-color: wheat ;
+    font-weight: bold;
+}
+
+.symbol {
+    background-color: orangered;
+}
+
+.gray:hover {
+    background-color: white;
+}
+
+.blue:hover{
+    background-color: orangered;
+}
+
+
+.gray {
+    background-color: whitesmoke;
+}
+
