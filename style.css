@@ -35,7 +35,7 @@
 }
 #output{
     text-align: right;
-    height: 10%;
+    height: 7%;
     width: 100%;
     font-size: 80px;
     margin-right: 20px;
@@ -43,11 +43,11 @@
 }
 
 #keyboard{
-    height: 60%;
+    height: 80%;
     width: 100%;
 }
 .operator, .number, .empty{
-    width: 370px;
+    width: 330px;
     height: 88px;
     margin: 0.1px;
     float:left;
