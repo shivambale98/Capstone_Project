@@ -47,8 +47,8 @@
     width: 100%;
 }
 .operator, .number, .empty{
-    width: 370px;
-    height: 88px;
+    width: 333px;
+    height: 80px;
     margin: 0.1px;
     float:left;
     font-weight: bold;
